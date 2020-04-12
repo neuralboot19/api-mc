@@ -47,6 +47,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'active_model_serializers', '~> 0.10.10'
 gem 'rack-cors', '~> 1.1', '>= 1.1.1'
 gem 'omniauth', '~> 1.9', '>= 1.9.1'
-
-gem 'dot_env', '~> 0.0.3'
+gem 'omniauth-facebook', '~> 6.0'
+gem 'koala', '~> 3.0'
+gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
 gem 'devise_token_auth', '~> 1.1', '>= 1.1.3'
